@@ -1,0 +1,254 @@
+Order_ID,Order_Date,Delivery_Date,Promised_Date,Product_Category,Quantity,Warehouse,Shipping_Mode,Distance_KM,Vehicle_Type,Delivery_Partner,Warehouse_Processing_Hours,Delivery_Cost_INR,Delivery_Status
+1,2026-03-23,2026-03-25,2026-03-25,Personal Care,5.0,Gurgaon-WH,Standard,5.1,Van,Partner A,6,223.92,On Time
+2,2026-01-04,2026-01-04,2026-01-04,Personal Care,9.0,Delhi-WH,Same Day,20.9,Bike,Partner B,6,378.63,On Time
+3,2026-03-17,2026-03-20,2026-03-21,Clothing,1.0,Ghaziabad-WH,Standard,69.4,Truck,Partner C,12,536.53,On Time
+4,2026-02-18,2026-02-18,2026-02-18,Personal Care,6.0,Noida-WH,Same Day,32.4,Van,Partner D,6,438.79,On Time
+5,2026-02-18,2026-02-18,2026-02-18,Electronics,11.0,Noida-WH,Same Day,48.3,Bike,Partner B,6,605.48,On Time
+6,2026-04-09,2026-04-12,2026-04-13,Home & Kitchen,4.0,Ghaziabad-WH,Standard,83.8,Truck,Partner D,12,692.12,On Time
+7,2026-03-27,2026-03-28,2026-03-27,Personal Care,11.0,Delhi-WH,Same Day,60.5,Bike,Partner B,12,666.8,Late
+8,2026-02-18,2026-02-19,2026-02-18,Electronics,11.0,Gurgaon-WH,Same Day,84.1,Bike,Partner C,12,847.91,Late
+9,2026-04-14,2026-04-17,2026-04-17,Grocery,2.0,Noida-WH,Standard,35.9,Van,Partner D,18,381.29,On Time
+10,2026-02-01,2026-02-03,2026-02-01,Clothing,7.0,Ghaziabad-WH,Same Day,64.3,Truck,Partner B,12,637.41,Late
+11,2026-04-07,2026-04-07,2026-04-07,Personal Care,3.0,Gurgaon-WH,Same Day,73.6,Bike,Partner D,4,590.69,On Time
+12,2026-03-18,2026-03-21,2026-03-21,Home & Kitchen,9.0,Delhi-WH,Standard,46.4,Bike,Partner C,30,616.49,On Time
+13,2026-02-28,2026-03-04,2026-03-03,Home & Kitchen,12.0,Gurgaon-WH,Express,81.2,Bike,Partner A,4,811.74,Late
+14,2026-01-20,2026-01-21,2026-01-20,Grocery,9.0,Delhi-WH,Same Day,65.5,Bike,Partner C,18,675.71,Late
+15,2026-02-16,2026-02-17,2026-02-16,Electronics,4.0,Delhi-WH,Same Day,22.6,Van,Partner D,12,349.55,Late
+16,2026-01-17,2026-01-21,2026-01-20,Home & Kitchen,3.0,Ghaziabad-WH,Express,80.6,Van,Partner B,30,747.31,Late
+17,2026-03-25,2026-03-28,2026-03-27,Electronics,9.0,Delhi-WH,Express,38.9,Van,Partner B,18,510.66,Late
+18,2026-03-12,2026-03-14,2026-03-16,Electronics,1.0,Delhi-WH,Standard,51.3,Van,Partner A,10,446.65,On Time
+19,2026-02-05,2026-02-06,2026-02-05,Grocery,3.0,Ghaziabad-WH,Same Day,20.6,Van,Partner D,30,333.26,Late
+20,2026-03-26,2026-03-28,2026-03-27,Electronics,7.0,Delhi-WH,Express,32.1,Bike,Partner A,24,494.29,Late
+21,2026-04-13,2026-04-13,2026-04-13,Clothing,4.0,Ghaziabad-WH,Same Day,23.4,Van,Partner D,6,318.16,On Time
+22,2026-04-22,2026-04-24,2026-04-25,Electronics,9.0,Delhi-WH,Standard,,Bike,Partner A,6,500.18,On Time
+23,2026-03-03,2026-03-07,2026-03-08,Home & Kitchen,1.0,Ghaziabad-WH,Standard,73.9,Van,Partner D,10,576.78,On Time
+24,2026-04-04,2026-04-05,2026-04-06,Home & Kitchen,5.0,Delhi-WH,Standard,15.7,Bike,Partner A,30,369.25,On Time
+25,2026-03-06,,2026-03-09,Clothing,9.0,Gurgaon-WH,Standard,7.7,Van,Partner A,8,348.7,On Time
+26,2026-03-14,2026-03-15,2026-03-14,Home & Kitchen,1.0,Delhi-WH,Same Day,50.5,Truck,Partner C,10,451.18,Late
+27,2026-02-10,2026-02-10,2026-02-10,Electronics,3.0,Noida-WH,Same Day,24.8,Truck,Partner C,10,320.3,On Time
+28,2026-03-14,2026-03-14,2026-03-14,Electronics,4.0,Noida-WH,Same Day,9.0,Van,Partner C,6,226.17,On Time
+29,2026-01-21,2026-01-25,2026-01-24,Electronics,12.0,Delhi-WH,Express,71.4,Bike,Partner C,30,810.27,Late
+30,2026-04-24,2026-04-27,2026-04-27,Home & Kitchen,3.0,Noida-WH,Express,,Bike,Partner B,6,556.65,On Time
+31,2026-04-20,2026-04-21,2026-04-23,Home & Kitchen,5.0,Delhi-WH,Standard,420.0,Bike,Partner D,12,472.41,On Time
+32,2026-01-17,2026-01-17,2026-01-17,Electronics,8.0,Ghaziabad-WH,Same Day,16.2,Bike,Partner A,12,393.9,On Time
+33,2026-03-30,2026-03-31,2026-03-30,Electronics,6.0,Gurgaon-WH,Same Day,47.7,Truck,Partner B,8,500.08,Late
+34,2026-04-30,2026-05-02,2026-04-30,Home & Kitchen,4.0,Gurgaon-WH,Same Day,76.7,Bike,Partner A,4,657.25,Late
+35,2026-02-22,2026-02-26,2026-02-27,Clothing,4.0,Gurgaon-WH,Standard,78.9,Truck,Partner A,8,677.53,On Time
+36,2026-04-21,2026-04-22,2026-04-23,Clothing,12.0,Ghaziabad-WH,Standard,24.9,Van,Partner D,10,476.38,On Time
+37,2026-04-16,2026-04-18,2026-04-19,Electronics,11.0,Ghaziabad-WH,Standard,21.3,Truck,,10,454.29,On Time
+38,2026-02-21,2026-02-24,2026-02-24,Electronics,2.0,Gurgaon-WH,Express,80.0,Bike,Partner C,18,665.79,On Time
+39,2026-02-14,2026-02-17,2026-02-17,Home & Kitchen,9.0,Ghaziabad-WH,Standard,38.8,Bike,Partner B,18,508.9,On Time
+40,2026-04-29,2026-04-30,2026-04-29,Electronics,2.0,Noida-WH,Same Day,32.9,Bike,Partner C,10,353.83,Late
+41,2026-03-27,2026-03-29,2026-03-28,Grocery,12.0,Gurgaon-WH,Express,29.7,Van,Partner D,24,563.13,Late
+42,2026-02-08,2026-02-12,2026-02-10,Personal Care,1.0,Noida-WH,Express,47.9,Van,Partner D,24,476.68,Late
+43,2026-03-01,2026-03-03,2026-03-01,Electronics,4.0,Ghaziabad-WH,Same Day,39.3,Bike,Partner B,30,488.73,Late
+44,2026-03-23,2026-03-23,2026-03-23,Clothing,4.0,Noida-WH,Same Day,10.7,Van,Partner B,18,252.97,On Time
+45,2026-03-02,2026-03-03,2026-03-02,Grocery,11.0,Gurgaon-WH,Same Day,40.3,Bike,Partner D,6,532.44,Late
+46,2026-03-25,2026-03-29,2026-03-28,Electronics,2.0,Gurgaon-WH,Express,76.2,Van,Partner D,4,580.15,Late
+47,2026-04-19,2026-04-20,2026-04-19,Personal Care,8.0,Noida-WH,Same Day,40.4,Truck,Partner D,6,518.23,Late
+48,2026-04-06,2026-04-08,2026-04-06,Clothing,4.0,Noida-WH,Same Day,39.9,Bike,Partner D,30,487.79,Late
+49,2026-04-02,2026-04-03,2026-04-03,Clothing,6.0,Delhi-WH,Express,22.2,Van,Partner B,12,378.84,On Time
+50,2026-04-01,2026-04-02,2026-04-02,Clothing,7.0,Ghaziabad-WH,Express,8.3,Truck,Partner A,10,289.17,On Time
+51,2026-04-09,2026-04-12,2026-04-12,Home & Kitchen,10.0,Ghaziabad-WH,Express,73.3,Van,Partner C,4,743.01,On Time
+52,2026-04-17,2026-04-19,2026-04-17,Home & Kitchen,12.0,Gurgaon-WH,Same Day,47.1,Truck,Partner B,24,659.74,Late
+53,2026-02-19,2026-02-22,2026-02-19,Personal Care,,Gurgaon-WH,Same Day,57.8,Truck,Partner B,18,588.42,Late
+54,2026-02-20,2026-02-22,2026-02-23,Home & Kitchen,7.0,Ghaziabad-WH,Standard,9.9,Van,Partner A,4,270.1,On Time
+55,2026-02-11,2026-02-14,2026-02-14,Grocery,7.0,Ghaziabad-WH,Express,65.4,Truck,Partner A,18,677.34,On Time
+56,2026-01-07,2026-01-07,2026-01-07,Clothing,2.0,Delhi-WH,standard,21.4,Van,Partner B,18,315.68,On Time
+57,2026-01-31,2026-02-01,2026-01-31,Home & Kitchen,2.0,Gurgaon-WH,Same Day,41.8,Truck,Partner C,8,407.15,Late
+58,2026-04-06,2026-04-10,2026-04-09,Home & Kitchen,3.0,Delhi-WH,Express,66.8,Bike,Partner A,6,573.44,Late
+59,2026-02-18,2026-02-23,2026-02-22,Personal Care,4.0,Gurgaon-WH,Standard,80.2,Van,Partner C,24,732.16,Late
+60,2026-02-14,2026-02-15,2026-02-14,Grocery,2.0,Noida-WH,Same Day,57.2,Van,Partner D,24,537.21,Late
+61,2026-02-16,2026-02-21,2026-02-20,Grocery,7.0,Noida-WH,Standard,61.0,Bike,Partner D,30,658.1,Late
+62,2026-04-20,2026-04-24,2026-04-23,Personal Care,2.0,Ghaziabad-WH,Express,71.1,Van,Partner D,10,592.69,Late
+63,2026-02-13,2026-02-16,2026-02-17,Home & Kitchen,6.0,Ghaziabad-WH,Standard,43.5,Van,Partner C,4,493.82,On Time
+64,2026-03-31,2026-04-02,2026-04-03,Grocery,9.0,Delhi-WH,Standard,48.6,Van,Partner D,12,588.35,On Time
+65,2026-03-04,2026-03-09,2026-03-07,Home & Kitchen,2.0,Gurgaon-WH,Express,68.0,Truck,Partner B,30,616.14,Late
+66,2026-03-12,2026-03-14,2026-03-12,Home & Kitchen,12.0,Noida-WH,Same Day,37.9,Truck,Partner D,18,572.48,Late
+67,2026-01-16,2026-01-17,2026-01-16,Grocery,12.0,Gurgaon-WH,Same Day,28.9,Van,Partner B,10,522.88,Late
+68,2026-04-08,2026-04-10,2026-04-11,Home & Kitchen,4.0,Gurgaon-WH,Express,83.4,Truck,Partner B,12,710.88,On Time
+69,2026-01-17,2026-01-17,2026-01-17,Grocery,1.0,Noida-WH,Same Day,6.7,Bike,Partner B,12,206.56,On Time
+70,2026-03-15,2026-03-16,2026-03-17,Grocery,8.0,Gurgaon-WH,Express,41.5,Van,Partner C,12,538.33,On Time
+71,2026-02-21,2026-02-22,2026-02-21,Personal Care,11.0,Delhi-WH,Same Day,9.1,Van,Partner B,30,407.71,Late
+72,2026-02-01,2026-02-02,2026-02-01,Grocery,7.0,Gurgaon-WH,Same Day,48.8,Bike,Partner D,6,514.64,Late
+73,2026-03-17,2026-03-19,2026-03-19,Home & Kitchen,10.0,Delhi-WH,Standard,28.0,Van,Partner B,24,494.39,On Time
+74,2026-03-12,2026-03-13,2026-03-13,Clothing,7.0,Ghaziabad-WH,Express,15.8,Truck,Partner A,6,341.22,On Time
+75,2026-03-31,2026-04-02,2026-04-01,Personal Care,4.0,Gurgaon-WH,Express,8.8,Truck,Partner A,30,313.66,Late
+76,2026-04-27,2026-04-30,2026-05-01,Grocery,2.0,Gurgaon-WH,Standard,70.8,Truck,Partner C,12,598.12,On Time
+77,2026-03-31,2026-04-01,2026-03-31,Personal Care,9.0,Ghaziabad-WH,Same Day,80.3,Truck,Partner A,24,829.17,Late
+78,2026-04-05,2026-04-08,2026-04-08,Home & Kitchen,1.0,Gurgaon-WH,Standard,52.5,Bike,Partner A,18,475.23,On Time
+79,2026-03-25,2026-03-27,2026-03-25,Electronics,3.0,Ghaziabad-WH,Same Day,78.1,Bike,Partner D,30,693.48,Late
+80,2026-02-12,2026-02-15,2026-02-14,Home & Kitchen,3.0,Ghaziabad-WH,Express,58.0,Bike,,18,564.81,Late
+81,2026-03-12,2026-03-13,2026-03-14,Personal Care,6.0,Noida-WH,Express,40.3,Van,Partner D,4,461.26,On Time
+82,2026-03-11,2026-03-12,2026-03-11,Grocery,4.0,Noida-WH,Same Day,36.9,Bike,Partner D,30,455.61,Late
+83,2026-03-12,2026-03-13,2026-03-12,Personal Care,8.0,Ghaziabad-WH,Same Day,79.1,Van,Partner A,8,745.19,Late
+84,2026-02-09,2026-02-12,2026-02-13,Clothing,2.0,Delhi-WH,Standard,48.3,Truck,Partner A,4,428.33,On Time
+85,2026-02-04,2026-02-09,2026-02-08,Grocery,8.0,Ghaziabad-WH,Standard,71.4,Bike,Partner B,24,734.89,Late
+86,2026-04-23,2026-04-26,2026-04-26,Electronics,5.0,Noida-WH,Express,73.9,Bike,Partner C,8,660.96,On Time
+87,2026-04-18,2026-04-21,2026-04-18,Personal Care,8.0,Ghaziabad-WH,Same Day,74.0,Truck,Partner C,30,760.63,Late
+88,2026-04-30,2026-05-05,2026-05-05,Electronics,12.0,Ghaziabad-WH,Standard,74.3,Van,,18,818.11,On Time
+89,2026-04-14,2026-04-17,2026-04-14,Clothing,11.0,Gurgaon-WH,Same Day,34.7,Truck,Partner A,24,596.12,Late
+90,2026-02-12,,2026-02-16,Grocery,8.0,Ghaziabad-WH,Standard,74.7,Van,,6,698.37,On Time
+91,2026-02-03,2026-02-05,2026-02-03,Home & Kitchen,7.0,Delhi-WH,Same Day,54.1,Truck,Partner D,18,616.94,Late
+92,2026-01-05,2026-01-05,2026-01-06,Grocery,11.0,Gurgaon-WH,Express,22.3,Bike,Partner A,6,455.42,On Time
+93,2026-04-01,2026-04-03,2026-04-03,Electronics,12.0,Delhi-WH,Express,39.4,Van,Partner C,6,551.91,On Time
+94,2026-02-25,2026-02-26,2026-02-25,Electronics,7.0,Gurgaon-WH,Same Day,23.0,Van,Partner B,8,400.25,Late
+95,2026-03-21,2026-03-23,2026-03-25,Grocery,10.0,Gurgaon-WH,Standard,43.8,Truck,Partner C,10,586.73,On Time
+96,2026-03-01,2026-03-04,2026-03-05,Grocery,3.0,Ghaziabad-WH,Standard,58.6,Truck,Partner C,12,552.32,On Time
+97,2026-01-26,2026-01-31,2026-01-31,Personal Care,2.0,Ghaziabad-WH,Standard,73.0,Bike,Partner C,24,607.32,On Time
+98,2026-04-17,2026-04-19,2026-04-17,Home & Kitchen,10.0,Delhi-WH,Same Day,25.5,Bike,Partner D,24,501.42,Late
+99,2026-02-15,2026-02-17,2026-02-17,Electronics,10.0,Gurgaon-WH,Express,55.2,Bike,Partner A,10,648.52,On Time
+100,2026-01-05,2026-01-09,2026-01-08,Clothing,2.0,Noida-WH,Express,63.1,Bike,Partner D,18,536.53,Late
+101,2026-03-11,2026-03-14,2026-03-14,Home & Kitchen,5.0,Noida-WH,Standard,46.5,Truck,Partner C,18,540.77,On Time
+102,2026-01-19,2026-01-20,2026-01-19,Electronics,12.0,Ghaziabad-WH,Same Day,73.5,Bike,Partner C,10,747.84,Late
+103,2026-03-10,2026-03-10,2026-03-10,Home & Kitchen,11.0,Noida-WH,Same Day,40.3,Bike,Partner D,6,558.29,On Time
+104,2026-03-02,2026-03-04,2026-03-04,Grocery,9.0,Gurgaon-WH,Express,53.8,Bike,Partner A,4,595.75,On Time
+105,2026-01-15,2026-01-17,2026-01-16,Clothing,1.0,Ghaziabad-WH,Express,6.7,Van,Partner A,8,150.34,Late
+106,2026-02-28,2026-03-01,2026-02-28,Grocery,12.0,Ghaziabad-WH,Same Day,58.0,Bike,Partner B,18,728.02,Late
+107,2026-03-20,2026-03-24,2026-03-24,Grocery,5.0,Noida-WH,Standard,80.0,Van,Partner D,24,707.96,On Time
+108,2026-03-29,2026-03-31,2026-03-31,Clothing,11.0,Delhi-WH,Express,47.6,Truck,Partner C,18,654.54,On Time
+109,2026-04-16,2026-04-17,2026-04-16,Clothing,4.0,Delhi-WH,Same Day,10.5,Van,Partner C,30,332.22,Late
+110,2026-01-27,2026-01-30,2026-01-31,Clothing,9.0,Gurgaon-WH,Standard,71.0,Van,Partner C,6,717.5,On Time
+111,2026-01-19,2026-01-22,2026-01-22,Home & Kitchen,3.0,Delhi-WH,Standard,47.3,Van,Partner A,8,12500.0,On Time
+112,2026-01-23,2026-01-24,2026-01-24,Grocery,12.0,Delhi-WH,Express,7.3,Bike,Partner A,12,402.48,On Time
+113,2026-03-07,2026-03-07,2026-03-07,Grocery,4.0,Delhi-WH,Same Day,40.1,Bike,Partner C,6,394.25,On Time
+114,2026-03-03,2026-03-07,2026-03-05,Home & Kitchen,2.0,Ghaziabad-WH,Express,38.0,Van,Partner A,24,404.9,Late
+115,2026-01-17,2026-01-19,2026-01-17,Grocery,10.0,Noida-WH,Same Day,54.2,Truck,Partner C,12,637.53,Late
+116,2026-01-13,2026-01-14,2026-01-13,Clothing,11.0,Gurgaon-WH,Same Day,72.9,Truck,Partner D,6,733.74,Late
+117,2026-02-28,2026-03-02,2026-03-01,Home & Kitchen,2.0,Ghaziabad-WH,Express,37.1,Truck,,24,431.81,Late
+118,2026-03-02,2026-03-04,2026-03-04,Clothing,2.0,Ghaziabad-WH,Standard,10.5,Van,Partner C,6,234.4,On Time
+119,2026-03-13,2026-03-17,2026-03-15,Home & Kitchen,7.0,Ghaziabad-WH,Express,57.9,Bike,Partner A,18,606.15,Late
+120,2026-01-14,2026-01-17,2026-01-17,Electronics,8.0,Delhi-WH,Standard,15.7,Truck,Partner C,10,341.77,On Time
+121,2026-02-24,2026-02-25,2026-02-24,Home & Kitchen,11.0,Noida-WH,Same Day,52.9,Van,Partner B,4,642.69,Late
+122,2026-02-14,,2026-02-14,Electronics,3.0,Ghaziabad-WH,Same Day,17.9,Van,Partner B,4,278.17,On Time
+123,2026-01-28,2026-01-29,2026-01-30,Personal Care,6.0,Noida-WH,Standard,37.4,Truck,Partner C,24,473.73,On Time
+124,2026-04-07,2026-04-09,2026-04-09,Grocery,,Ghaziabad-WH,Express,58.3,Truck,Partner D,4,524.73,On Time
+125,2026-03-07,2026-03-08,2026-03-08,Electronics,2.0,Ghaziabad-WH,Express,31.3,Bike,Partner C,6,325.52,On Time
+126,2026-03-18,2026-03-18,2026-03-20,Home & Kitchen,5.0,Gurgaon-WH,Standard,3.6,Truck,Partner C,4,213.44,On Time
+127,2026-02-25,2026-02-25,2026-02-25,Electronics,9.0,Gurgaon-WH,Same Day,13.6,Bike,Partner C,8,379.31,On Time
+128,2026-01-06,2026-01-08,2026-01-07,Grocery,2.0,Ghaziabad-WH,Express,4.5,Bike,Partner D,24,201.91,Late
+129,2026-01-03,2026-01-05,2026-01-04,Electronics,10.0,Noida-WH,Express,17.1,Van,Partner D,18,422.74,Late
+130,2026-02-21,2026-02-21,2026-02-21,Clothing,5.0,Noida-WH,Same Day,35.5,Van,Partner C,6,411.63,On Time
+131,2026-01-15,2026-01-18,2026-01-18,Clothing,6.0,Gurgaon-WH,Express,77.3,Van,Partner A,10,673.64,On Time
+132,2026-03-19,2026-03-24,2026-03-24,Grocery,11.0,Gurgaon-WH,Standard,65.3,Bike,Partner D,8,712.38,On Time
+133,2026-03-21,2026-03-25,2026-03-24,Grocery,11.0,Gurgaon-WH,Express,73.9,Truck,Partner A,18,793.28,Late
+134,2026-04-12,2026-04-12,2026-04-12,Grocery,,Delhi-WH,Same Day,51.5,Truck,Partner D,12,516.41,On Time
+135,2026-04-17,2026-04-18,2026-04-17,Grocery,2.0,Ghaziabad-WH,Same Day,9.3,Truck,Partner A,12,226.91,Late
+136,2026-02-11,2026-02-14,2026-02-13,Personal Care,1.0,Delhi-WH,Express,44.1,Truck,Partner A,30,434.95,Late
+137,2026-04-01,2026-04-03,2026-04-01,Home & Kitchen,9.0,Gurgaon-WH,Same Day,84.3,Truck,Partner C,30,842.33,Late
+138,2026-02-13,2026-02-16,2026-02-16,Personal Care,11.0,Delhi-WH,Express,67.7,Truck,Partner A,4,693.25,On Time
+139,2026-04-03,2026-04-04,2026-04-03,Grocery,10.0,Gurgaon-WH,Same Day,30.3,Truck,Partner C,8,481.5,Late
+140,2026-05-01,2026-05-03,2026-05-01,Grocery,7.0,Noida-WH,Same Day,28.4,Van,Partner A,6,396.11,Late
+141,2026-02-16,2026-02-17,2026-02-17,Clothing,4.0,Ghaziabad-WH,Express,17.8,Van,Partner B,12,279.43,On Time
+142,2026-04-19,2026-04-20,2026-04-19,Personal Care,9.0,Delhi-WH,Same Day,44.6,Bike,Partner C,6,543.43,Late
+143,2026-01-20,2026-01-20,2026-01-20,Electronics,12.0,Gurgaon-WH,Same Day,17.8,Bike,Partner D,8,428.66,On Time
+144,2026-04-03,2026-04-06,2026-04-06,Home & Kitchen,10.0,Ghaziabad-WH,Express,82.5,Van,Partner B,10,819.24,On Time
+145,2026-01-25,2026-01-29,2026-01-27,Personal Care,10.0,Ghaziabad-WH,Express,58.6,Truck,Partner D,18,670.72,Late
+146,2026-01-21,2026-01-25,2026-01-24,Home & Kitchen,3.0,Delhi-WH,Express,68.7,Bike,Partner D,10,612.26,Late
+147,2026-04-02,2026-04-02,2026-04-03,Grocery,3.0,Ghaziabad-WH,Express,26.4,Bike,Partner B,6,347.18,On Time
+148,2026-01-29,2026-02-02,2026-02-01,Clothing,1.0,Delhi-WH,Express,75.5,Truck,Partner C,30,680.67,Late
+149,2026-02-17,2026-02-17,2026-02-17,Electronics,2.0,Noida-WH,Same Day,5.3,Van,Partner B,10,212.84,On Time
+150,2026-03-02,2026-03-05,2026-03-05,Home & Kitchen,8.0,Delhi-WH,Express,65.2,Van,Partner A,8,669.3,On Time
+151,2026-03-12,2026-03-16,2026-03-15,Clothing,5.0,Noida-WH,Standard,12.1,Van,Partner A,24,322.03,Late
+152,2026-01-15,2026-01-17,2026-01-15,Home & Kitchen,1.0,Gurgaon-WH,Same Day,51.9,Bike,Partner B,30,479.49,Late
+153,2026-02-15,2026-02-17,2026-02-15,Electronics,3.0,Delhi-WH,Same Day,49.8,Bike,Partner C,10,475.44,Late
+154,2026-04-11,2026-04-12,2026-04-14,Electronics,8.0,Ghaziabad-WH,Standard,35.0,Truck,Partner C,4,446.69,On Time
+155,2026-04-04,2026-04-07,2026-04-07,Personal Care,12.0,Gurgaon-WH,Express,66.3,Van,Partner C,6,740.61,On Time
+156,2026-01-23,2026-01-24,2026-01-23,Grocery,8.0,Gurgaon-WH,Same Day,83.4,Van,Partner A,30,812.01,Late
+157,2026-01-06,2026-01-08,2026-01-09,Home & Kitchen,6.0,Ghaziabad-WH,Express,75.6,Bike,Partner D,10,696.8,On Time
+158,2026-01-25,2026-01-26,2026-01-25,Home & Kitchen,1.0,Noida-WH,Same Day,32.3,Truck,Partner A,12,361.17,Late
+159,2026-04-06,2026-04-11,2026-04-09,Home & Kitchen,7.0,Gurgaon-WH,Express,76.4,Truck,Partner D,30,750.4,Late
+160,2026-01-11,2026-01-14,2026-01-14,Electronics,10.0,Noida-WH,Standard,9.5,Truck,Partner A,24,387.39,On Time
+161,2026-03-19,2026-03-21,2026-03-20,Personal Care,8.0,Ghaziabad-WH,Express,16.7,Van,Partner C,24,392.67,Late
+162,2026-04-12,2026-04-13,2026-04-13,Electronics,11.0,Noida-WH,Express,9.2,Bike,Partner B,4,376.12,On Time
+163,2026-03-28,2026-03-31,2026-03-30,Personal Care,2.0,Noida-WH,Standard,5.9,Truck,Partner D,30,230.61,Late
+164,2026-02-27,2026-03-01,2026-02-27,Grocery,2.0,Gurgaon-WH,Same Day,33.5,Bike,Partner C,18,389.97,Late
+165,2026-02-01,2026-02-02,2026-02-02,Home & Kitchen,3.0,Ghaziabad-WH,Express,5.1,Bike,Partner A,6,204.84,On Time
+166,2026-01-28,2026-01-30,2026-01-31,Grocery,8.0,Delhi-WH,Standard,59.9,Van,Partner A,12,659.24,On Time
+167,2026-04-14,2026-04-19,2026-04-18,Clothing,12.0,Noida-WH,Standard,57.8,Truck,Partner B,18,690.25,Late
+168,2026-01-26,2026-01-28,2026-01-28,Grocery,8.0,Noida-WH,Standard,22.4,Bike,Partner C,8,415.45,On Time
+169,2026-01-09,2026-01-11,2026-01-09,Grocery,12.0,Ghaziabad-WH,Same Day,35.6,Bike,Partner D,12,530.03,Late
+170,2026-02-10,2026-02-11,2026-02-10,Clothing,11.0,Noida-WH,Same Day,39.9,Van,Partner B,6,545.57,Late
+171,2026-04-22,2026-04-25,2026-04-26,Home & Kitchen,9.0,Noida-WH,Standard,71.2,Van,Partner B,4,718.05,On Time
+172,2026-03-08,2026-03-12,2026-03-12,Personal Care,5.0,Noida-WH,Standard,72.4,Van,Partner C,12,658.86,On Time
+173,2026-03-17,2026-03-17,2026-03-17,Electronics,10.0,Noida-WH,Same Day,17.0,Bike,Partner A,8,368.73,On Time
+174,2026-03-24,2026-03-26,2026-03-26,Home & Kitchen,10.0,Delhi-WH,Express,56.4,Truck,Partner C,12,629.09,On Time
+175,2026-04-14,2026-04-16,2026-04-14,Grocery,2.0,Delhi-WH,Same Day,27.4,Van,Partner D,24,360.27,Late
+176,2026-02-13,2026-02-15,2026-02-14,Home & Kitchen,12.0,Noida-WH,Express,28.6,Truck,Partner B,8,505.3,Late
+177,2026-02-10,2026-02-12,2026-02-12,Electronics,5.0,Gurgaon-WH,Express,41.3,Van,Partner A,10,484.52,On Time
+178,2026-04-21,2026-04-24,2026-04-22,Grocery,3.0,Noida-WH,Express,23.4,Van,Partner B,24,354.41,Late
+179,2026-04-23,2026-04-25,2026-04-25,Personal Care,2.0,Ghaziabad-WH,Express,43.8,Van,Partner B,12,397.72,On Time
+180,2026-02-06,2026-02-08,2026-02-06,Electronics,11.0,Ghaziabad-WH,Same Day,52.0,Truck,Partner A,30,668.04,Late
+181,2026-02-03,2026-02-07,2026-02-08,Home & Kitchen,6.0,Ghaziabad-WH,Standard,65.6,Van,Partner B,18,638.78,On Time
+182,2026-02-27,2026-02-28,2026-02-27,Grocery,10.0,Delhi-WH,Same Day,70.7,Van,Partner A,12,747.89,Late
+183,2026-02-13,2026-02-14,2026-02-13,Electronics,4.0,Ghaziabad-WH,Same Day,64.9,Bike,Partner A,18,583.62,Late
+184,2026-02-12,2026-02-14,2026-02-12,Clothing,3.0,Gurgaon-WH,Same Day,45.6,Truck,Partner C,30,537.04,Late
+185,2026-04-05,2026-04-05,2026-04-05,Grocery,9.0,Ghaziabad-WH,Same Day,51.7,Bike,Partner C,12,590.3,On Time
+186,2026-03-28,2026-04-01,2026-03-31,Home & Kitchen,10.0,Delhi-WH,Express,83.4,Bike,Partner D,6,793.06,Late
+187,2026-04-03,2026-04-05,2026-04-03,Electronics,3.0,Ghaziabad-WH,Same Day,,Van,Partner B,4,487.69,Late
+188,2026-01-15,2026-01-17,2026-01-16,Grocery,6.0,Gurgaon-WH,Express,4.6,Truck,Partner B,10,272.1,Late
+189,2026-04-28,2026-04-30,2026-04-28,Personal Care,12.0,Delhi-WH,Same Day,74.6,Bike,Partner B,30,847.25,Late
+190,2026-03-26,2026-03-30,2026-03-30,Personal Care,6.0,Ghaziabad-WH,Standard,46.1,Bike,Partner C,30,571.2,On Time
+191,2026-01-25,2026-01-27,2026-01-28,Grocery,80.0,Noida-WH,Standard,25.9,Truck,Partner B,10,356.33,On Time
+192,2026-04-30,2026-05-01,2026-04-30,Clothing,10.0,Ghaziabad-WH,Same Day,26.6,Truck,Partner C,12,438.12,Late
+193,2026-04-02,2026-04-03,2026-04-02,Clothing,8.0,Noida-WH,Same Day,31.4,Bike,Partner D,6,460.08,Late
+194,2026-02-04,2026-02-04,2026-02-04,Personal Care,10.0,Gurgaon-WH,Same Day,14.3,Van,Partner A,12,400.08,On Time
+195,2026-01-07,2026-01-09,2026-01-08,Electronics,12.0,Delhi-WH,Express,36.9,Bike,Partner B,6,574.07,Late
+196,2026-01-21,2026-01-23,2026-01-23,Home & Kitchen,8.0,Gurgaon-WH,Express,56.5,Truck,Partner C,24,669.48,On Time
+197,2026-01-12,2026-01-15,2026-01-16,Electronics,12.0,Gurgaon-WH,Standard,46.9,Truck,Partner B,10,598.58,On Time
+198,2026-04-06,2026-04-10,2026-04-09,Grocery,1.0,Delhi-WH,Express,74.9,Truck,Partner C,12,594.86,Late
+199,2026-04-24,2026-04-27,2026-04-27,Clothing,8.0,Gurgaon-WH,Express,72.8,Van,Partner C,8,703.7,On Time
+200,2026-04-02,2026-04-04,2026-04-03,Grocery,6.0,Gurgaon-WH,Express,4.2,Van,Partner D,8,236.88,Late
+201,2026-02-21,2026-02-22,2026-02-22,Home & Kitchen,,Noida-WH,Express,18.2,Van,Partner A,6,255.33,On Time
+202,2026-04-07,2026-04-07,2026-04-07,Clothing,5.0,Delhi-WH,Same Day,81.2,Truck,Partner C,12,713.27,On Time
+203,2026-03-01,2026-03-01,2026-03-01,Home & Kitchen,11.0,Noida-WH,Same Day,16.1,Bike,Partner A,12,427.48,On Time
+204,2026-01-29,2026-01-30,2026-01-29,Personal Care,8.0,Noida-WH,Same Day,42.2,Truck,Partner D,8,526.91,Late
+205,2026-03-29,2026-03-31,2026-03-29,Electronics,9.0,Noida-WH,Same Day,46.1,Van,Partner A,6,570.77,Late
+206,2026-01-26,2026-01-27,2026-01-27,Personal Care,9.0,Delhi-WH,Express,16.5,Bike,Partner B,8,350.46,On Time
+207,2026-03-07,2026-03-12,2026-03-12,Personal Care,8.0,Ghaziabad-WH,Standard,69.3,Truck,Partner A,30,753.2,On Time
+208,2026-02-20,2026-02-24,2026-02-24,Home & Kitchen,12.0,Delhi-WH,Standard,69.9,Van,Partner D,12,791.05,On Time
+209,2026-04-30,2026-05-04,2026-05-05,Clothing,8.0,Noida-WH,Standard,83.9,Truck,Partner B,6,784.97,On Time
+210,2026-02-18,2026-02-21,2026-02-21,Home & Kitchen,7.0,Delhi-WH,Express,74.3,Bike,Partner B,30,732.51,On Time
+211,2026-03-10,2026-03-15,2026-03-14,Grocery,12.0,Delhi-WH,Standard,46.4,Van,Partner C,24,649.16,Late
+212,2026-01-30,2026-02-01,2026-02-01,Electronics,3.0,Gurgaon-WH,Express,40.8,Bike,Partner A,10,425.7,On Time
+213,2026-04-30,2026-05-01,2026-05-02,Clothing,2.0,Delhi-WH,Standard,,Truck,Partner A,4,270.54,On Time
+214,2026-03-11,2026-03-15,2026-03-16,Personal Care,1.0,Noida-WH,Standard,64.9,Van,Partner C,10,515.51,On Time
+215,2026-01-19,2026-01-20,2026-01-22,Personal Care,5.0,Gurgaon-WH,Standard,36.9,Bike,Partner D,10,459.74,On Time
+216,2026-05-01,2026-05-03,2026-05-01,Home & Kitchen,6.0,Ghaziabad-WH,Same Day,67.4,Truck,Partner B,24,655.43,Late
+217,2026-03-10,2026-03-12,2026-03-11,Personal Care,4.0,Gurgaon-WH,Express,22.8,Truck,Partner A,30,416.87,Late
+218,2026-03-13,2026-03-14,2026-03-16,Grocery,5.0,Noida-WH,Standard,34.9,Bike,Partner A,8,415.54,On Time
+219,2026-04-17,2026-04-18,2026-04-17,Personal Care,7.0,Delhi-WH,Same Day,7.2,Van,Partner B,10,272.22,Late
+220,2026-01-27,2026-01-30,2026-01-29,Grocery,1.0,Gurgaon-WH,Standard,27.9,Bike,Partner A,18,341.63,Late
+221,2026-02-20,2026-02-22,2026-02-22,Home & Kitchen,5.0,Ghaziabad-WH,Express,48.3,Bike,Partner C,10,491.38,On Time
+222,2026-04-23,2026-04-26,2026-04-25,Home & Kitchen,12.0,Noida-WH,Express,41.2,Van,Partner C,30,615.94,Late
+223,2026-04-21,2026-04-24,2026-04-24,Clothing,1.0,Ghaziabad-WH,Express,63.8,Truck,Partner B,10,504.6,On Time
+224,2026-03-14,2026-03-15,2026-03-14,Grocery,11.0,Noida-WH,Same Day,43.9,Truck,Partner D,10,561.49,Late
+225,2026-04-12,2026-04-12,2026-04-12,Personal Care,12.0,Ghaziabad-WH,Same Day,16.9,Van,Partner A,18,481.74,On Time
+226,2026-01-10,2026-01-14,2026-01-14,Electronics,7.0,Gurgaon-WH,Standard,65.7,Van,Partner B,4,-150.0,On Time
+227,2026-01-08,2026-01-13,2026-01-12,Personal Care,1.0,Ghaziabad-WH,Standard,57.1,Van,Partner A,30,569.25,Late
+228,2026-01-03,2026-01-08,2026-01-07,Clothing,3.0,Delhi-WH,Standard,69.1,Bike,Partner B,24,632.19,Late
+229,2026-04-15,2026-04-17,2026-04-17,Personal Care,7.0,Noida-WH,Standard,24.9,Truck,Partner D,18,407.4,On Time
+230,2026-04-16,2026-04-18,2026-04-20,Grocery,11.0,Delhi-WH,Standard,56.6,Truck,Partner D,6,653.8,On Time
+231,2026-03-31,2026-03-31,2026-03-31,Personal Care,7.0,Noida-WH,Same Day,9.8,Bike,Partner A,8,282.59,On Time
+232,2026-04-26,2026-04-28,2026-04-26,Clothing,2.0,Noida-WH,Same Day,25.2,Bike,Partner A,30,338.14,Late
+233,2026-01-27,2026-01-30,2026-01-30,Personal Care,12.0,Delhi-WH,Express,64.7,Truck,Partner B,8,722.2,On Time
+234,2026-04-19,2026-04-23,2026-04-21,Electronics,9.0,Ghaziabad-WH,Express,58.5,Bike,Partner B,24,689.73,Late
+235,2026-02-14,2026-02-15,2026-02-16,Home & Kitchen,4.0,Noida-WH,Standard,11.0,Bike,Partner D,4,257.01,On Time
+236,2026-02-27,2026-03-02,2026-02-28,Electronics,9.0,Ghaziabad-WH,Express,,Van,Partner D,30,459.92,Late
+237,2026-02-01,2026-02-02,2026-02-02,Home & Kitchen,3.0,Gurgaon-WH,Express,9.7,Bike,Partner D,6,196.59,On Time
+238,2026-01-01,2026-01-05,2026-01-05,Grocery,5.0,Gurgaon-WH,Standard,39.5,Van,Partner B,12,456.28,On Time
+239,2026-02-22,2026-02-22,2026-02-22,Grocery,6.0,Delhi-WH,Same Day,5.2,Bike,Partner C,6,234.71,On Time
+240,2026-02-19,2026-02-21,2026-02-22,Clothing,9.0,Gurgaon-WH,Standard,62.4,Bike,Partner D,6,632.47,On Time
+241,2026-03-05,2026-03-06,2026-03-06,Electronics,7.0,Ghaziabad-WH,Express,,Truck,Partner D,8,274.3,On Time
+242,2026-02-01,2026-02-04,2026-02-03,Electronics,4.0,Delhi-WH,Express,51.7,Van,Partner C,30,552.13,Late
+243,2026-03-21,2026-03-25,2026-03-24,Home & Kitchen,6.0,Noida-WH,Express,68.9,Truck,Partner B,24,689.59,Late
+244,2026-03-30,2026-04-01,2026-04-01,Personal Care,3.0,Noida-WH,Express,42.3,Truck,Partner D,10,417.35,On Time
+245,2026-02-05,2026-02-07,2026-02-07,Grocery,10.0,Gurgaon-WH,Standard,32.9,Bike,Partner A,24,557.26,On Time
+246,2026-04-17,2026-04-18,2026-04-17,Clothing,7.0,Ghaziabad-WH,Same Day,70.2,Van,Partner C,6,664.72,Late
+247,2026-04-02,2026-04-07,2026-04-05,Personal Care,2.0,Ghaziabad-WH,Express,,Bike,Partner D,24,629.61,Late
+248,2026-04-22,2026-04-24,2026-04-22,Home & Kitchen,6.0,Delhi-WH,Same Day,47.6,Van,Partner B,24,564.42,Late
+249,2026-01-06,2026-01-10,2026-01-09,Home & Kitchen,6.0,Delhi-WH,Express,82.3,Van,Partner A,24,764.44,Late
+250,2026-03-08,2026-03-09,2026-03-10,Grocery,7.0,Gurgaon-WH,Express,39.6,Truck,Partner A,10,471.33,On Time
+21,2026-04-13,2026-04-13,2026-04-13,Clothing,4.0,Ghaziabad-WH,Same Day,23.4,Van,Partner D,6,318.16,On Time
+76,2026-04-27,2026-04-30,2026-05-01,Grocery,2.0,Gurgaon-WH,Standard,70.8,Truck,Partner C,12,598.12,On Time
+151,2026-03-12,2026-03-16,2026-03-15,Clothing,5.0,Noida-WH,Standard,12.1,Van,Partner A,24,322.03,Late
